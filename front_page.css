@@ -1,0 +1,63 @@
+*{
+  background: black;
+}
+
+body{
+  background: black;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Feditszjm.tumblr.com%2Fpost%2F156193285738%2Flike-xx&psig=AOvVaw21Mpt16M8q9J-8P42NK0G7&ust=1629468439664000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLiN_KyhvfICFQAAAAAdAAAAABAD");
+  text-align: center;
+  align-content: center;
+}
+
+h1{
+    /* color: #100275; */
+    color:gray;
+    font-family: Trebuchet MS, sans-serif;
+    font-style: italic;
+}
+
+h2{
+  /* color: #188b8f; */
+  color:gray;
+  font-family: Trebuchet MS, sans-serif;
+  font-style: italic;
+}
+
+p{
+  /* text-color: #100275; */
+  color:gray;
+  font-family: Trebuchet MS, sans-serif;
+  font-style: italic;
+}
+
+img {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+iframe{
+  border: none;
+}
+
+#myBtn{
+  text-align: center;
+  color: gray;
+  border: outset;
+  border-color: gray;
+  /* margin-top: 25%; */
+  font-family: Trebuchet MS, sans-serif;
+  font-style: italic;
+}
+
+#myBtn:hover{
+  color: white;
+}
+
+.row{
+  margin-bottom: 5px;
+}
+
+.container{
+  margin-bottom: 5px;
+}
